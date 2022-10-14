@@ -1,0 +1,4 @@
+alindrome
+palindrome
+alindrome
+simple
